@@ -18,6 +18,10 @@
           <option name="url" value="http://gitlab.fing.edu.uy" />
           <option name="userName" value="carina.maerro" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.fing.edu.uy/kevin.jose/InRiego.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
